@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!toggle || !icon) return;
 
   function setIcon(isDark) {
-    icon.src = isDark ? "images/sun.webp" : "images/moon.png";
+    icon.src = isDark ? "images/sun.png" : "images/moon.png";
   }
 
   const isDark = localStorage.getItem("theme") === "dark";
