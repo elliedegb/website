@@ -1,0 +1,15 @@
+{
+  "hash": "2f1935c7f5950c372578b4f7bc9930e6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"rafavsbastos\"\nabout:\n    template: jolla\n    image: profile.jpg\n    image-width: 10em\n    image-shape: round\n    links:\n    - icon: twitter\n      text: Twitter/X\n      href: https://x.com/rafavsbastos\n    - icon: github\n      text: Github\n      href: https://github.com/rafavsbastos\n    - icon: orcid.png\n      text: ORCID\n      href: https://orcid.org/0000-0003-2444-6982\n    - icon: consulting.png\n      text: My Consulting Website\n      href: https://www.consultoriapsicometria.com/en \n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

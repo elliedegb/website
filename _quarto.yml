@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+resources:
+  - fonts/
+  
+website:
+  title: "Ellie Bastos Degobi"
+  search: true
+  navbar:
+    search: true
+    pinned: true
+    background: primary
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Resources
+        href: resources.qmd
+      - text: Publications
+        href: publications.qmd
+
+  back-to-top-navigation: true
+
+  page-footer:
+    center: "Copyright 2026, Ellie Bastos Degobi"
+
+format:
+  html:
+    include-before-body:
+      - includes/theme-toggle.html
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual

@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "resources.html#controlling-social-desirability-quadsim-and-quadsimple-shinny-apps",
+    "href": "resources.html#controlling-social-desirability-quadsim-and-quadsimple-shinny-apps",
+    "title": "Resources",
+    "section": "Controlling Social Desirability: quadSim and quadSimple Shinny Apps",
+    "text": "Controlling Social Desirability: quadSim and quadSimple Shinny Apps\nDesigned a computational tool to do simulations for the assessment of power, bias, and coverage in parameter estimation within structural equation modeling, specifically targeting the Multiple Indicators Multiple Causes (MIMIC) Quadruplets model in latent variable modeling. See quadSim and quadSimple, or the source code."
+  },
+  {
+    "objectID": "resources.html#open-science-study-group",
+    "href": "resources.html#open-science-study-group",
+    "title": "Resources",
+    "section": "Open Science Study Group",
+    "text": "Open Science Study Group\nReproducibiliTea-Campinas\nWe aim to provide an informal and friendly platform for discussions about open science, reproducibility, and meta-science, help each other get familiarized with open science practices, and connect students and researchers. Before each meeting, we read an article, which we then discuss during the meeting."
+  },
+  {
+    "objectID": "resources.html#predicting-magic-the-gathering-card-price-from-card-features",
+    "href": "resources.html#predicting-magic-the-gathering-card-price-from-card-features",
+    "title": "Resources",
+    "section": "Predicting Magic: The Gathering Card Price from Card Features",
+    "text": "Predicting Magic: The Gathering Card Price from Card Features\nDeveloped a machine learning project to predict the market value of Magic: The Gathering cards based on their characteristics, such as rarity, card type, and release set. The objective was to better understand the factors that drive card prices and evaluate how accurately they can be modeled using data-driven approaches. The project involved collecting and cleaning a dataset of card attributes and price information, followed by exploratory data analysis to identify patterns and relationships. Feature engineering was applied to improve model performance, and a regression model was trained to estimate card prices. Model performance was evaluated using standard metrics, and results were analyzed to assess predictive accuracy.\nIn addition to prediction, interpretability techniques were used to understand which features contributed most to price variation. The analysis showed that rarity is one of the strongest predictors of value, and that cards from older sets tend to have higher prices. Other features also demonstrated consistent influence on price, highlighting meaningful relationships within the data. This project demonstrates practical experience in end-to-end machine learning workflows, including data preprocessing, modeling, evaluation, and interpretation. It also emphasizes the importance of combining predictive performance with explainability to extract actionable insights from structured data.\nLink to project."
+  },
+  {
+    "objectID": "resources.html#hair-condition-classification-from-image-data",
+    "href": "resources.html#hair-condition-classification-from-image-data",
+    "title": "Resources",
+    "section": "Hair Condition Classification from Image Data",
+    "text": "Hair Condition Classification from Image Data\nDeveloped an end-to-end machine learning classification pipeline to identify hair conditions (Alopecia, Receding Hairline, No Alopecia) from image data. Implemented feature engineering using Histogram of Oriented Gradients (HOG) and trained an SVM model within a standardized preprocessing pipeline (scaling, train-test split, class balancing). Evaluated model performance using multiclass metrics (accuracy, precision, recall, F1-score) and ensured consistency between training and inference pipelines. Deployed the model as an interactive Streamlit application, enabling real-time predictions with confidence scores and automated generation of structured visual outputs. The Jupyter notebook and trained model can be seen here."
+  },
+  {
+    "objectID": "resources.html#reading-lists",
+    "href": "resources.html#reading-lists",
+    "title": "Resources",
+    "section": "Reading Lists",
+    "text": "Reading Lists\n\nMultimedia Meta-science\n\n\n\n\n\n\nNetwork Theory of Mental Disorders\n\n\n\n\n\n\n\nMeasurement Theory in Psychometrics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ellie Bastos Degobi",
+    "section": "",
+    "text": "Psychometrics · Mental Health · Meta-Science · Causal Inference\n    \n      GitHub\n      LinkedIn\n      Bluesky\n      Email\n      ResearchGate\n      Scholar\n      Orcid\n    \n      Download CV\n    \n  \n\n\n\n  Languages\n  \n    🇧🇷 Portuguese (native)\n    🇺🇸 English (C1)\n    🇳🇴 Norwegian (Learning)\n  \n\n\n  \n\n\n  \n    \n      \n        I am a psychologist (PhD) specialized in psychometrics, mental health, causal inference, and quantitative methods. My work focuses on improving research quality through rigorous statistical modeling and reproducible science.\n      \n    \n  \n\n\n\n\n\n\n\n\n  \n    Biography\n    \n      I left a small town in Bahia (Brazil) to go to Rio de Janeiro (Brazil) in 2016 to pursue an undergraduate degree in Psychology (2016-2021; PUC-Rio). After that, I moved on to Campinas (São Paulo - BR) to pursue an MSc in Psychology (2021-2022; São Francisco University, BR). I then completed a PhD in Psychology (2023-2025; São Francisco University, BR), specifically on psychometrics, causality and measurement theory. \n\nDuring and after obtaining my PhD, I have worked in laboratories at the Oslo New University College, Pontifical Catholic University of Rio Grande do Sul, and São Francisco University, and worked as an independent consultant at Child Mind Institute (USA).\n    \n  \n  \n    \n  \n\n\n\n  \n    Education\n    \n      PhD in Psychology – São Francisco University (2023–2025)\n      MSc in Psychology – São Francisco University (2021–2023)\n      BSc in Psychology – Pontifical Catholic University of Rio de Janeiro (2016–2021)\n    \n  \n  \n    \n  \n\n\n\n  \n    Research Interests\n     \n    If you are interested in working with me, feel free to  contact me.\n    Prior to that, it might be worth taking a look at the following themes of research that currently interest me:\n\n\n\n  \n    Thinking about Psychometrics By Acting on its Assumptions — (e.g. My PhD Dissertation; \n    Franco et al., 2024; \n  Franco et al., 2022\n   \n  Franco et al., 2023\n    ).\n  \n\n  \n    Mental Health Assessment and Theory — \n    (Dahlgren et al., 2025; \n  Simioni et al., 2026\n   \n  Lie et al., 2024)\n    \n\n  \n    Replications and Theory Building — \n     (Borborema et al., 2026; \n  Ferreira et al., 2024) \n\n  \n  \n    \n  \n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My name is cited as Degobi, E. B. or as I was formerly known (Bastos, R. V. S.)."
+  },
+  {
+    "objectID": "publications.html#books",
+    "href": "publications.html#books",
+    "title": "Publications",
+    "section": "Books",
+    "text": "Books\n\nDegobi, E. B. (2025). Advances in Psychometric Theory and Measurement for Psychological Sciences: With Tutorials in R. https://elliedegb.quarto.pub/psychometrics/"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nBorborema, R. S., de Moraes Ferreira, M., da Silva, A. L. M., Bastos, R. V. S., de Sá, D. G. F., Feldman, G., … & Batistuzzo, M. C. (2026). Inaction Inertia Effect: Foregoing Opportunities as a Consequence of an Initial Failure to Act–a Replication-Extension Study in the Brazilian Population. Meta-Psychology, 10. https://doi.org/10.15626/MP.2023.3960\nSimioni, A., Schafer, J. L., Marchionatti, L. E., Schuster, K., Casella, C. B., Papanikolaou, K., … & Kotsis, K. (2026). Psychometric properties and local normative references of PSC-17, RCADS-25, CATS-2, SNAP-IV, MCHAT-R/F, and CAST: data from a nationwide sample in Greece. Journal of Patient-Reported Outcomes, 62(10). https://doi.org/10.1186/s41687-026-01032-1\nSchoenegger, P., Tuminauskaite, I., Park, P. S., Bastos, R. V. S., & Tetlock, P. E. (2024/2025). Wisdom of the Silicon Crowd: LLM ensemble prediction capabilities rival human crowd accuracy. Science Advances, 10(45), eadp1528. https://doi.org/10.1126/sciadv.adp1528\nBlomster Lyshol, J. K., Bastos, R. V. S., Isager, P. M., & Blystad, M. H. (2025). What is empathy for laypeople? – A replication study of Hall, Schwartz, and Duong (2021). The Journal of Social Psychology, 1–19. https://doi.org/10.1080/00224545.2025.2482014\nSarfo, J. O., García-Santillán, A., Adusei, H., Bastos, R. V. S., Achido, T. A., Attigah, D. K. (2025). Gender and Age Differences in Behaviours Related to Mathematics Anxiety Across Six Asian Countries. Journal of Advocacy, Research and Education, 12(2), 147-157. https://doi.org/10.13187/jare.2025.2.148\nDahlgren, C. L., Bang, L., & Degobi, E. B. (2025). Screening for eating disorders in adolescents: psychometric evaluation of the EDE-QS in a community sample. BMC Psychology, 13(1042). https://doi.org/10.1186/s40359-025-03400-w\nde Moraes Ferreira, M., Santiago, M. Y. T., Bastos, R. V. S., Fatori, D., Borborema, R. S., Seda, L., & Batistuzzo, M. C. (2024). Replication: The money illusion effect in a Brazilian sample and meta-analyses. Journal of Economic Psychology, 104, 102744. https://doi.org/10.1016/j.joep.2024.102744\nMachado, G. M., Mose, L. B., Bastos, R. V. S., Freitas, C. P. P., Carvalho, L. F. (2024). Violence and bullying in the school context: a multilevel analysis. Avaliação Psicológica, 23, 355-367. https://doi.org/10.15689/ap.2024.2303.10\nValentini, F., Mose, L. B., Franco, G. C., Aire, J. S. O., Bastos, R. V. S., et al. (2024). Inventory of Supporting for Socio-Emotional Skills - Forced-Choice Version. Paidéia, 34, e3408. https://doi.org/10.1590/1982-4327e3408\nSarfo, J. O., Ansah, E. W., Apaak, D., & Bastos, R. V. S. (2023). Psychometric Properties of a Safety Culture Index among Mental Health Workers in Ghana. Archives of Psychiatry Research, 59(2), 277-284. https://doi.org/10.20471/dec.2023.59.02.11\nSchönegger, P., Maier, M., & Bastos, R. V. S. (2023). Introduction and validation of the Short Antinatalism Scale (S-ANS). Psychological Test Adaptation and Development, 4(1), 28-40. https://doi.org/10.1027/2698-1866/a000036\nAquino, S. D., Marot, T. A., Bastos, R. V. S., & Natividade, J. C. (2023). Validity evidence of the Humor Styles Questionnaire in Brazil. Avaliação Psicológica, 22(2), 174-184. https://doi.org/10.15689/ap.2023.2202.21873.07\nFranco, V. R., Wiberg, M., & Bastos, R. V. S. (2023). Nonparametric Item Response Models. Psico-USF, 28, 685-696. https://doi.org/10.1590/1413-82712023280403\nFranco, V. R., Laros, J. A., Wiberg, M., & Bastos, R. V. S. (2022). How to think straight about psychometrics. Trends in Psychology, 1-21. https://doi.org/10.1007/s43076-022-00183-6\nFranco, V. R., Laros, J. A., & Bastos, R. V. S. (2022). Mokken scale analysis foundations. Paidéia, 32. https://doi.org/10.1590/1982-4327e3223\nde Carvalho, N. M., Bastos, R. V. S., & Natividade, J. C. (2022). Implicit depressive trait measurement. Trends in Psychology, 1-26. https://doi.org/10.1007/s43076-022-00145-y\nLopes, K. F., Bahia, V. S., Natividade, J. C., Bastos, R. V. S., et al. (2022). Personality changes in Alzheimer’s disease. Dementia & Neuropsychologia, 16, 187-193. https://doi.org/10.1590/1980-5764-DN-2021-0029\nSarfo, J. O., García-Santillán, A., Ansah, E. W., Bastos, R. V. S., et al. (2022). Anxiety Towards Mathematics Scale validation. European Journal of Contemporary Education, 11(2), 504-514. https://doi.org/10.13187/ejced.2022.2.504\ndos Santos, G. G. B., Soares, A. B., & Bastos, R. V. S. (2021). Social skills training and school climate. Psychology: Theory and Practice, 23(2), 1-22. https://doi.org/10.5935/1980-6906/ePTPPE13553\nNatividade, J. C., Londero-Santos, A., Novaes, F. C., Carvalho, N. M. D., Bastos, R. V. S., & Marot, T. A. (2021). Theory of planned behavior and COVID-19 isolation. Revista Psicologia e Saúde, 13(4), 199-213. https://doi.org/10.20435/pssa.v13i4.1369"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\nValentini, F., & Bastos, R. V. S. (2025). Halo effect: consequences and techniques for assessment and control. In M. P. P. da Silva, & E. M. Peixoto (Orgs.), Response biases in psychological testing and assessment (pp 131-146). Hogrefe.\nMose, L. B., Lessa, J. P. A., Souza, L. S., & Bastos, R. V. S. (2025). Response biases in the assessment of personality traits. In M. P. P. da Silva, & E. M. Peixoto (Orgs.), Response biases in psychological testing and assessment (pp 299-324). Hogrefe."
+  }
+]

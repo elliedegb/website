@@ -1,0 +1,47 @@
+---
+title: "Resources"
+---
+## Controlling Social Desirability: quadSim and quadSimple Shinny Apps
+
+Designed a computational tool to do simulations for the assessment of power, bias, and coverage in parameter estimation within structural equation modeling, specifically targeting the Multiple Indicators Multiple Causes (MIMIC) Quadruplets model in latent variable modeling. See [quadSim](https://peabody-mimic.shinyapps.io/quadSim/) and [quadSimple](https://peabody-mimic.shinyapps.io/quadSimple/), or the [source code](https://github.com/elliedegb/mimic-quadruplets).
+
+## Open Science Study Group
+
+[ReproducibiliTea-Campinas](https://reproducibilitea.org/journal-clubs/#Campinas)
+
+We aim to provide an informal and friendly platform for discussions about open science, reproducibility, and meta-science, help each other get familiarized with open science practices, and connect students and researchers. Before each meeting, we read an article, which we then discuss during the meeting. 
+
+## Predicting Magic: The Gathering Card Price from Card Features
+
+Developed a machine learning project to predict the market value of Magic: The Gathering cards based on their characteristics, such as rarity, card type, and release set. The objective was to better understand the factors that drive card prices and evaluate how accurately they can be modeled using data-driven approaches. The project involved collecting and cleaning a dataset of card attributes and price information, followed by exploratory data analysis to identify patterns and relationships. Feature engineering was applied to improve model performance, and a regression model was trained to estimate card prices. Model performance was evaluated using standard metrics, and results were analyzed to assess predictive accuracy.
+
+In addition to prediction, interpretability techniques were used to understand which features contributed most to price variation. The analysis showed that rarity is one of the strongest predictors of value, and that cards from older sets tend to have higher prices. Other features also demonstrated consistent influence on price, highlighting meaningful relationships within the data. This project demonstrates practical experience in end-to-end machine learning workflows, including data preprocessing, modeling, evaluation, and interpretation. It also emphasizes the importance of combining predictive performance with explainability to extract actionable insights from structured data.
+
+Link to [project](https://elliedegb.github.io/mtg_ml/).
+
+## Hair Condition Classification from Image Data
+
+Developed an end-to-end machine learning classification pipeline to identify hair conditions (Alopecia, Receding Hairline, No Alopecia) from image data. Implemented feature engineering using Histogram of Oriented Gradients (HOG) and trained an SVM model within a standardized preprocessing pipeline (scaling, train-test split, class balancing). Evaluated model performance using multiclass metrics (accuracy, precision, recall, F1-score) and ensured consistency between training and inference pipelines. Deployed the model as an interactive [Streamlit application](https://baldness.streamlit.app), enabling real-time predictions with confidence scores and automated generation of structured visual outputs. The Jupyter notebook and trained model can be seen [here](https://github.com/elliedegb/image_classification_baldness).
+
+## Reading Lists
+
+```{=html}
+<a href="metascience.pdf" download>
+<button type="button" class="btn btn-primary">Multimedia Meta-science</button>
+</a>
+<div>
+
+<p>
+
+<a href="ntmd.pdf" download>
+<button type="button" class="btn btn-primary">Network Theory of Mental Disorders</button>
+</a>
+<div>
+
+<p>
+
+<div>
+<a href="measurement.pdf" download>
+<button type="button" class="btn btn-primary">Measurement Theory in Psychometrics</button>
+</a>
+```
